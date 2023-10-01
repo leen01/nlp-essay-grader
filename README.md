@@ -6,16 +6,12 @@ For the semester project, we explored creating a machine learning model to autom
 ## Navigation
 
 ### Presentation
-#### The document that was used for the in-class presentation on 12/6/2022.
-`/Presentation.pdf`
+#### The document that was used for the presentation
+`/Presentation.pdf` or `/presentation.md`
 
 ### Report
 #### The document that outlines our findings in detail.
 `/report.md`
-
-### Presentation
-#### The presentation for our work
-`/presentation.md`
 
 ### Final
 #### The code to produce our final, best model, taking into consideration all experiments.
